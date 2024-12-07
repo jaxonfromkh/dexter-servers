@@ -1,6 +1,10 @@
 {
     "servers": [
         {
+            "name": "Dexter Server",
+            "address": "https://zea-ra-anisette.onrender.com"
+        },
+        {
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
         },
