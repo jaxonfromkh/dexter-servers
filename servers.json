@@ -1,10 +1,6 @@
 {
     "servers": [
         {
-            "name": "Dexter Server",
-            "address": "https://zea-ra-anisette.onrender.com"
-        },
-        {
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
         },
@@ -47,6 +43,10 @@
         {
             "name": "iDH Server",
             "address": "https://ani.idevicehacked.com"
+        },
+        {
+            "name": "Dexter Server",
+            "address": "https://zea-ra-anisette.onrender.com"
         }
     ]
 }
